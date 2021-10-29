@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Khanyiso Tshwaku",
+      "title": "Cricket SA's Edward Khoza: 2015 Zondo non-selection was unfair, but not race-based",
+      "description": "Cricket South Africa's acting head of pathways Edward Khoza said Khaya Zondo's 2015 axing on the tour of India was unfair, but not race-based.",
+      "url": "https://www.news24.com/sport/Cricket/cricket-sas-edward-khoza-2015-zondo-non-selection-was-unfair-but-not-race-based-20211029",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11709/ff64f116e10444ab90ee71d5f69fdfa2.jpg",
+      "publishedAt": "2021-10-29T06:28:13+00:00",
+      "content": "<ul><li>Cricket South Africa's acting head of pathways Edward Khoza said Khaya Zondo not playing in the 2015 ODI against India wasn't race-based.</li><li>Khoza was testifying at the Cricket for Socia… [+2458 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Ali M Latifi, Mohsin Khan Mohmand",
+      "title": "Flags, tears, anthem: How Afghans celebrated their cricket win",
+      "description": "Afghanistan’s win over Scotland in T20 World Cup gave Afghan people reason for joy and hope after two turbulent months.",
+      "url": "http://www.aljazeera.com/sports/2021/10/26/cricket-afghanistan-win-over-scotland-cause-for-celebration",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/10/000_9QE328.jpg?resize=1200%2C630",
+      "publishedAt": "2021-10-26T11:58:29Z",
+      "content": "Kabul, Afghanistan Afghanistan erupted in celebration on Monday evening, with those following the national cricket team sharing a rare moment of joy with a 130-run win over Scotland in the T20 World … [+5991 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
